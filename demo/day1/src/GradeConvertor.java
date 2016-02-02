@@ -1,19 +1,31 @@
 public class GradeConvertor {
-	private String grade = "F";
+	
+	Data[] datas;
+
+	public GradeConvertor() {
+		initialData();
+	}
+
+	private void initialData(){
+		datas = new Data[]{
+				new Data(80, "A"),	
+				new Data(75, "B+"),	
+				new Data(70, "B"),
+				new Data(65, "C+"),	
+				new Data(60, "C"),	
+				new Data(50, "D"),
+				new Data(0, "F"),
+			};
+	}
 
 	public String convertScoreToGrade(int score) {
-		if (score >= 80) {
-			grade = "A";
-		} else if (score >= 75) {
-			grade = "B+";
-		} else if (score >= 70) {
-			grade = "B";
-		} else if (score >= 65) {
-			grade = "C+";
-		} else if (score >= 60) {
-			grade = "C";
-		} else if (score >= 50) {
-			grade = "D";
+		String grade = "";
+
+		for (Data data : datas) {
+			if (score >= data.score) {
+				grade = data.grade;
+				break;
+			}
 		}
 		return grade;
 	}

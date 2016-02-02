@@ -1,9 +1,17 @@
 import static org.junit.Assert.*;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 
 public class GradeCovnertorTest {
+	
+	@Test
+	public void invalid(){
+		String expectedGrade = "";
+		GradeConvertor helloWorld = new GradeConvertor();
+		assertEquals(expectedGrade, helloWorld.convertScoreToGrade(-1));
+	}
 
 	@Test
 	public void ได้เกรดA(){
