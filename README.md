@@ -21,7 +21,6 @@ Resources for course Basic Java with TDD (Test-Driven Development)
 * Workshop
 
 ### Day 2
-* SOLID
 * Test doubles
   * Dummy
   * Stub
@@ -29,7 +28,11 @@ Resources for course Basic Java with TDD (Test-Driven Development)
   * Mock
   * Fake
 * Workshop
+* SOLID
+  * Workshop
 * Refactoring and Code smell
+  * [Code smell](https://sourcemaking.com/refactoring/smells/)
+  * [Refactoring](https://sourcemaking.com/refactoring)
   * [Workshop](https://github.com/emilybache/Tennis-Refactoring-Kata)
 * Working with Legacy code
   * [Workshop](https://github.com/up1/workshop_java_legacy)
@@ -43,3 +46,4 @@ Resources for course Basic Java with TDD (Test-Driven Development)
 * https://github.com/azagniotov/stubby4j
 * http://wiremock.org/
 * https://github.com/typicode/json-server
+
