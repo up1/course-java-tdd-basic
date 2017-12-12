@@ -30,10 +30,10 @@ Resources for course Basic Java with TDD (Test-Driven Development)
   * Fake
 * Workshop
 * Refactoring and Code smell
-* Workshop
+  * [Workshop](https://github.com/emilybache/Tennis-Refactoring-Kata)
 * Working with Legacy code
-  * [Source code](https://github.com/up1/workshop_java_legacy)
-* Continuous Integation with Jenkins
+  * [Workshop](https://github.com/up1/workshop_java_legacy)
+* Continuous Integation with [Jenkins](https://jenkins-ci.org/)
 
 # Resources
 
