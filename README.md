@@ -32,6 +32,7 @@ Resources for course Basic Java with TDD (Test-Driven Development)
 * Refactoring and Code smell
 * Workshop
 * Working with Legacy code
+  * [Source code](https://github.com/up1/workshop_java_legacy)
 * Continuous Integation with Jenkins
 
 # Resources
