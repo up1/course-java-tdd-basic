@@ -20,6 +20,7 @@ Resources for course Basic Java with TDD (Test-Driven Development)
   * JUnit Lifecycle
   * Annotations
   * Handle exception
+  * Data-Driven Testing
 * Workshop
 
 ### Day 2
