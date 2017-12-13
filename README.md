@@ -46,4 +46,6 @@ Resources for course Basic Java with TDD (Test-Driven Development)
 * https://github.com/azagniotov/stubby4j
 * http://wiremock.org/
 * https://github.com/typicode/json-server
+* http://joel-costigliola.github.io/assertj/
+* https://github.com/mockito/mockito
 
