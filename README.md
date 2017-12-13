@@ -1,9 +1,11 @@
 # Course :: TDD with Java
 Resources for course Basic Java with TDD (Test-Driven Development)
 
+# Slides
+* [Main slide](https://github.com/up1/course-java-tdd-basic/tree/master/slide)
+* [Working with Legacy day 2](https://github.com/up1/course-java-tdd-basic/blob/master/slide/SCK-LEGACY-WORKSHOP.pdf)
+
 # Topics 
-
-
 ### Day 1
 * Basic of TDD
 * Workshop
