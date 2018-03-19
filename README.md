@@ -31,7 +31,7 @@ Resources for course Basic Java with TDD (Test-Driven Development)
   * Mock
   * Fake
 * Workshop
-* SOLID
+* SOLID and Design Pattern
   * Workshop
 * Refactoring and Code smell
   * [Code smell](https://sourcemaking.com/refactoring/smells/)
