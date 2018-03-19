@@ -41,6 +41,9 @@ Resources for course Basic Java with TDD (Test-Driven Development)
   * [Workshop](https://github.com/up1/workshop_java_legacy)
 * Continuous Integation with [Jenkins](https://jenkins-ci.org/)
 
+# Workshops
+* Testing with Spring Boot 2
+
 # Resources
 
 * http://codingdojo.org/KataCatalogue/
